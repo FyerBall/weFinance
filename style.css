@@ -84,7 +84,7 @@ img {
 
 /* Hero */
 .hero {
-  background: url(../imgs/hero.jpeg) no-repeat center center/cover;
+  background: url("../imgs/hero.jpeg") no-repeat center center/cover;
   height: 90vh;
   position: relative;
 }
